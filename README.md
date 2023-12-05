@@ -1,7 +1,8 @@
 # HR-Employee-Survey-Responses-PowerBI-Project
 HR Employee Survey Responses dashboard development using PowerBI
-Certainly! Here's a summary highlighting the key experiences gained from working on this project:
 <br>
+<br>
+
 This project provided hands-on experience in end-to-end data analysis, visualization, and communication of insights, enhancing proficiency in data-driven decision-making and storytelling.
 
 ### Experience Gained:
